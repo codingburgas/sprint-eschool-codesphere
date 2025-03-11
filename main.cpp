@@ -1,5 +1,6 @@
 using namespace std;
 #include <iostream>
+#include "subjects.h"
 
 void printTitle() {
     cout << "  ██████╗ ██████╗ ██████╗  ███████╗ ███████╗██████╗ ██╗  ██╗███████╗██████╗  ███████╗\n";
