@@ -1,5 +1,6 @@
 #include <iostream>
 #include "subjects.h"
+
 using namespace std;
 
 void printTitle() {
@@ -15,20 +16,18 @@ void printTitle() {
     cout << "     ██║   █████╗  ███████╗   ██║   ███████║██████╔╝██████╔╝\n";
     cout << "     ██║   ██╔══╝  ╚════██║   ██║   ██╔══██║██╔═══╝ ██╔═══╝ \n";
     cout << "     ██║   ███████╗███████║   ██║   ██║  ██║██║     ██║     \n";
-    cout << "     ╚═╝   ╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝    \n";
+    cout << "     ╚═╝   ╚══════╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚═╝     ╚═╝     \n";
 }
 
 int main() {
     int choice;
-    
+
     printTitle();
-    
+
     while (true) {
-        cout << "\nWelcome to the e-testing app!" << endl;
-        cout << "Please select an option from the menu below:" << endl;
-        cout << "1. Choose a subject" << endl;
-        cout << "2. See the results of the tests you took." << endl;
-        cout << "3. Exit" << endl;
+        cout << "\nWelcome to the e-testing app!\n";
+        cout << "1. Choose a subject\n";
+        cout << "2. Exit\n";
         cout << "Enter your choice: ";
         cin >> choice;
 
@@ -44,13 +43,10 @@ int main() {
                 chooseSubject();
                 break;
             case 2:
-                cout << "Results are not implemented yet." << endl;
-                break;
-            case 3:
-                cout << "Exiting..." << endl;
+                cout << "Exiting... Goodbye!\n";
                 return 0;
             default:
-                cout << "Invalid choice. Please try again." << endl;
+                cout << "Invalid choice. Please try again.\n";
         }
     }
 }
