@@ -1,28 +1,29 @@
 #include <iostream>
+#include "subjects.h"
+
 using namespace std;
 
 void chooseSubject() {
-    cout << "Select a subject:\n";
-    cout << "1. Mathematics\n";
-    cout << "2. Physics\n";
-    cout << "3. Chemistry\n";
-    cout << "Enter your choice: ";
+    cout << "Available subjects:" << endl;
+    cout << "1. Math" << endl;
+    cout << "2. Physics" << endl;
+    cout << "3. Chemistry" << endl;
+    cout << "Choose a subject (1-3): ";
     
-    int subjectChoice;
-    cin >> subjectChoice;
+    int subject;
+    cin >> subject;
 
-    switch (subjectChoice) {
+    switch (subject) {
         case 1:
-            cout << "You selected Mathematics.\n";
+            cout << "You selected Math." << endl;
             break;
         case 2:
-            cout << "You selected Physics.\n";
+            cout << "You selected Physics." << endl;
             break;
         case 3:
-            cout << "You selected Chemistry.\n";
+            cout << "You selected Chemistry." << endl;
             break;
         default:
-            cout << "Invalid choice. Please try again.\n";
-            break;
+            cout << "Invalid subject." << endl;
     }
 }
