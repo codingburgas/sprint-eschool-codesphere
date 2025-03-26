@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\sprint-eschool-codesphere\\codesphere\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CED59F2-568C-4C65-8628-6FC18AE543EB}|codesphere\\codesphere.vcxproj|D:\\project\\sprint-eschool-codesphere\\codesphere\\codesphere\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CED59F2-568C-4C65-8628-6FC18AE543EB}|codesphere\\codesphere.vcxproj|solutionrelative:codesphere\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CED59F2-568C-4C65-8628-6FC18AE543EB}|codesphere\\codesphere.vcxproj|D:\\project\\sprint-eschool-codesphere\\codesphere\\codesphere\\history_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CED59F2-568C-4C65-8628-6FC18AE543EB}|codesphere\\codesphere.vcxproj|solutionrelative:codesphere\\history_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CED59F2-568C-4C65-8628-6FC18AE543EB}|codesphere\\codesphere.vcxproj|D:\\project\\sprint-eschool-codesphere\\codesphere\\codesphere\\science_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CED59F2-568C-4C65-8628-6FC18AE543EB}|codesphere\\codesphere.vcxproj|solutionrelative:codesphere\\science_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CED59F2-568C-4C65-8628-6FC18AE543EB}|codesphere\\codesphere.vcxproj|D:\\project\\sprint-eschool-codesphere\\codesphere\\codesphere\\subjects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CED59F2-568C-4C65-8628-6FC18AE543EB}|codesphere\\codesphere.vcxproj|solutionrelative:codesphere\\subjects.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CED59F2-568C-4C65-8628-6FC18AE543EB}|codesphere\\codesphere.vcxproj|D:\\project\\sprint-eschool-codesphere\\codesphere\\codesphere\\english_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CED59F2-568C-4C65-8628-6FC18AE543EB}|codesphere\\codesphere.vcxproj|solutionrelative:codesphere\\english_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CED59F2-568C-4C65-8628-6FC18AE543EB}|codesphere\\codesphere.vcxproj|D:\\project\\sprint-eschool-codesphere\\codesphere\\codesphere\\math_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9CED59F2-568C-4C65-8628-6FC18AE543EB}|codesphere\\codesphere.vcxproj|solutionrelative:codesphere\\math_test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "history_test.cpp",
+              "DocumentMoniker": "D:\\project\\sprint-eschool-codesphere\\codesphere\\codesphere\\history_test.cpp",
+              "RelativeDocumentMoniker": "codesphere\\history_test.cpp",
+              "ToolTip": "D:\\project\\sprint-eschool-codesphere\\codesphere\\codesphere\\history_test.cpp",
+              "RelativeToolTip": "codesphere\\history_test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T07:54:50.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "subjects.cpp",
+              "DocumentMoniker": "D:\\project\\sprint-eschool-codesphere\\codesphere\\codesphere\\subjects.cpp",
+              "RelativeDocumentMoniker": "codesphere\\subjects.cpp",
+              "ToolTip": "D:\\project\\sprint-eschool-codesphere\\codesphere\\codesphere\\subjects.cpp",
+              "RelativeToolTip": "codesphere\\subjects.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T07:37:14.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "science_test.cpp",
+              "DocumentMoniker": "D:\\project\\sprint-eschool-codesphere\\codesphere\\codesphere\\science_test.cpp",
+              "RelativeDocumentMoniker": "codesphere\\science_test.cpp",
+              "ToolTip": "D:\\project\\sprint-eschool-codesphere\\codesphere\\codesphere\\science_test.cpp",
+              "RelativeToolTip": "codesphere\\science_test.cpp",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T07:35:27.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "math_test.cpp",
+              "DocumentMoniker": "D:\\project\\sprint-eschool-codesphere\\codesphere\\codesphere\\math_test.cpp",
+              "RelativeDocumentMoniker": "codesphere\\math_test.cpp",
+              "ToolTip": "D:\\project\\sprint-eschool-codesphere\\codesphere\\codesphere\\math_test.cpp",
+              "RelativeToolTip": "codesphere\\math_test.cpp",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACMAAAB6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T07:29:30.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\project\\sprint-eschool-codesphere\\codesphere\\codesphere\\main.cpp",
+              "RelativeDocumentMoniker": "codesphere\\main.cpp",
+              "ToolTip": "D:\\project\\sprint-eschool-codesphere\\codesphere\\codesphere\\main.cpp",
+              "RelativeToolTip": "codesphere\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T07:27:01.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "english_test.cpp",
+              "DocumentMoniker": "D:\\project\\sprint-eschool-codesphere\\codesphere\\codesphere\\english_test.cpp",
+              "RelativeDocumentMoniker": "codesphere\\english_test.cpp",
+              "ToolTip": "D:\\project\\sprint-eschool-codesphere\\codesphere\\codesphere\\english_test.cpp",
+              "RelativeToolTip": "codesphere\\english_test.cpp",
+              "ViewState": "AgIAADIAAAAAAAAAAAAQwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-26T07:26:54.795Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
